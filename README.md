@@ -1,2 +1,2 @@
 # Portfolio1
-A Portfolio Websing Making Using HTML,CSS,JAVASCRIPT
+A Portfolio Website Making Using HTML,CSS,JAVASCRIPT
